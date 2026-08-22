@@ -1,95 +1,89 @@
-# 🌩️ Proyecto WILLAY - Equipo 04
-### Proyectos de Ingeniería 2026-1 | Universidad Peruana Cayetano Heredia
+<div align="center">
+  
+  <img width="850" alt="Logo Universidad Peruana Cayetano Heredia" src="Imagenes/cayetano.png" />
+  
+  <br><br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=for-the-badge" alt="Estado">
-  <img src="https://img.shields.io/badge/Tecnología-DeepTech-blue?style=for-the-badge" alt="Tecnología">
-  <img src="https://img.shields.io/badge/Enfoque-AgTech%20%7C%20Clima-green?style=for-the-badge" alt="Enfoque">
-  <img src="https://img.shields.io/badge/Licencia-MIT-orange?style=for-the-badge" alt="Licencia">
-</p>
+  <h1>🚀 Equipo 01 — Proyecto Prueba</h1>
+  <p><b>Carreras de Ingeniería Informática e Industrial</b><br>
+  <i>Universidad Peruana Cayetano Heredia (UPCH) • 2026-2</i></p>
 
-<p align="center">
-  <strong>Plataforma de Inteligencia Climática para la Resiliencia Agrícola en los Andes</strong>
-</p>
+  <p align="center">
+    <a href="#"><img src="https://shields.io" alt="Estado"></a>
+    <a href="#"><img src="https://shields.io" alt="Curso"></a>
+    <a href="#"><img src="https://shields.io" alt="ODS"></a>
+  </p>
+
+</div>
 
 ---
 
 ## 📋 Tabla de Contenidos
-- [🎯 Resumen Ejecutivo](#-resumen-ejecutivo)
-- [🌍 Impacto y ODS](#-impacto-y-ods)
-- [👥 Nuestro Equipo](#-nuestro-equipo)
-- [🚀 Stack Tecnológico](#-stack-tecnológico)
-- [📁 Estructura del Repositorio](#-estructura-del-repositorio)
-- [⚙️ Guía de Instalación](#️-guía-de-instalación)
-- [🤝 Cómo Contribuir](#-cómo-contribuir)
-- [📬 Contacto](#-contacto)
+* [🌍 Descripción del Equipo y Misión](#-descripción-del-equipo-y-misión)
+* [🎯 Alineación con los ODS](#-alineación-con-los-ods-agenda-2030)
+* [👥 Equipo Multidisciplinario y Contacto](#-equipo-multidisciplinario-y-contacto)
+* [🔄 Metodología de Trabajo](#-metodología-de-trabajo)
+* [📁 Estructura del Repositorio](#-estructura-del-repositorio)
 
 ---
 
-## 🎯 Resumen Ejecutivo
+## 🌍 Descripción del Equipo y Misión
 
-**WILLAY** (del quechua *"Aviso/Alerta"*) es un sistema DeepTech enfocado en la inteligencia climática. Su objetivo principal es predecir eventos extremos como heladas y sequías con alta precisión y anticipación, salvaguardando los cultivos de pequeños agricultores andinos.
+> 💡 **Idea de Proyecto Innovador (Propuesta):** *Desarrollo de un sistema IoT modular de bajo costo asistido por IA para la detección temprana de contaminantes biológicos en fuentes de agua comunales.* El proyecto busca empoderar a comunidades periurbanas mediante sensores accesibles que alertan en tiempo real sobre la potabilidad del agua, optimizando la respuesta sanitaria antes de que ocurran brotes de enfermedades.
 
-### 💡 Pilares de la Solución
-- **Modelos de IA:** Redes neuronales BiLSTM para el análisis temporal del clima.
-- **Imágenes Satelitales:** Combinación de datos de Sentinel-1 y Sentinel-2.
-- **Alertas Hiperlocales:** Notificaciones precisas a nivel de parcela.
-- **Soporte Offline:** Funcionalidad asegurada en zonas con conectividad limitada.
+Somos el **Equipo 01** del curso **Procesos de Innovación en Ingeniería**. Estamos conformados por estudiantes de Ingeniería Informática e Industrial de la **Universidad Peruana Cayetano Heredia**. Como equipo que recién inicia su camino, buscamos fusionar la optimización de procesos logísticos con el desarrollo de software avanzado para diseñar una solución tecnológica que sea viable, escalable y con un alto impacto social en nuestra comunidad.
 
 ---
 
-## 🌍 Impacto y ODS
+## 🎯 Alineación con los ODS (Agenda 2030)
 
-Nuestro proyecto está directamente alineado con los Objetivos de Desarrollo Sostenible de la ONU:
+Nuestra propuesta preliminar se alinea de manera directa con los siguientes Objetivos de Desarrollo Sostenible:
 
-| ODS PRINCIPAL | Contribución del Proyecto |
-|-----|----------------------|
-| **🌍 ODS 13: Acción Climática** | Herramienta de adaptación al cambio climático con base científica y tecnológica. |
-
-| ODS SECUNDARIOS | Contribución del Proyecto |
-|-----|----------------------|
-| **🌾 ODS 2: Hambre Cero** | Prevención de pérdidas en cultivos fundamentales (papa, quinua, maíz). |
-| **💧 ODS 6: Agua Limpia** | Gestión y optimización eficiente del riego ante posibles casos de estrés hídrico. |
-| **⚙️ ODS 9: Innovación** | Desarrollo de infraestructura tecnológica inclusiva para zonas rurales. |
+| ODS | Meta Clave | Aplicación Tentativa en el Proyecto | Impacto Esperado |
+| :---: | :---: | :---: | :---: |
+| **ODS 6:** Agua Limpia y Saneamiento | **Meta 6.1:** Lograr el acceso universal y equitativo al agua potable a un precio accesible. | Monitoreo automatizado de la calidad hídrica con sensores de código abierto. | 💧 **Agua Segura** |
+| **ODS 11:** Ciudades y Comunidades Sostenibles | **Meta 11.b:** Reducir significativamente la vulnerabilidad de asentamientos humanos marginados. | Infraestructura resiliente y conectada para alertar riesgos de salud ambiental en tiempo real. | 🏙️ **Comunidad Resiliente** |
 
 ---
 
-## 👥 Nuestro Equipo
+## 👥 Equipo Multidisciplinario y Contacto
 
-| Foto | Nombre | Rol Principal | Responsabilidades Clave |
-|:---:|--------|--------------|-------------------------|
-| <img src="./imagenes/jurgen.jpg" width="70" alt="Jurgen Carpio"> | **Carpio Huaranga, Jurgen Adriano** | 🎯 Líder del equipo | Gestión del proyecto, coordinación general, toma de decisiones y seguimiento de objetivos. |
-| 👤 | **Mendez Pecho, Xiomara Valentina** | 🔬 Responsable de investigación | Análisis de datos climáticos, validación científica, investigación bibliográfica y métricas de impacto. |
-| 👤 | **Cordova Asencio, Xiomi** | 🎨 Diseñador/a | Diseño UX/UI, creación de prototipos interactivos, experiencia de usuario y accesibilidad de la plataforma. |
-| 👤 | **Taipe Condori, Wilder Jherson** | 📝 Encargado/a de documentación | Redacción técnica, elaboración de manuales, actas de reuniones y estructuración del repositorio. |
-| 👤 | **Briceño More, Yen Yosue** | 💻 Programador/a - Modelador/a | Desarrollo del código (frontend/backend), implementación de modelos de IA y arquitectura de software. |
+💡 **Enfoque colaborativo:** *Combinamos nuestras habilidades técnicas y de gestión para estructurar un proyecto con rigor analítico y sensibilidad social.*
+
+| Nombre | Rol Principal | Responsabilidades Clave | Correo Institucional |
+| :--- | :---: | :--- | :--- |
+| **Carpio Huaranga, Jurgen Adriano** | 👑 Líder | Coordinación general, gestión de tiempos y comunicación externa. | `jurgen.carpio@upch.pe` |
+| **Briceño More, Yen Yosue** | 💻 Programador | Arquitectura lógica, control de versiones y desarrollo de código. | `yen.briceno@upch.pe` |
+| **Cordova Asencio, Xiomi Nicoll** | 🎨 Diseñadora | Experiencia de usuario (UX/UI), identidad visual y prototipado. | `xiomi.cordova@upch.pe` |
+| **Taipe Condori, Wilder Jherson** | 📄 Documentación | Redacción de informes técnicos, control de calidad y bitácoras. | `Wilder.taipe@upch.com` |
+| **Mendez Pecho, Xiomara Valentina** | 🔍 Responsable de Investigación | Vigilancia tecnológica, estado del arte y marco normativo. | `xiomara.mendez@upch.pe` |
 
 ---
 
-## 🚀 Stack Tecnológico
+## 🔄 Metodología de Trabajo
 
-### 🖥️ Entorno Web y Móvil
-- **Frontend:** React + TypeScript (Vite)
-- **Estilos:** Tailwind CSS + shadcn/ui
-- **Offline:** Progressive Web App (PWA) para modo sin conexión
+Aplicaremos el marco de **Design Thinking** adaptado al desarrollo ágil, iniciando desde las fases de empatía profunda:
 
-### ⚙️ Lógica y Modelado (IA)
-- **Backend:** Python + FastAPI
-- **Modelos:** TensorFlow / PyTorch (Redes BiLSTM)
-- **Base de datos:** Firebase / Supabase
-
-### 🛰️ Orígenes de Datos
-- **Procesamiento Satelital:** Google Earth Engine API
-- **Datos:** Sentinel-1, Sentinel-2 y datos meteorológicos de SENAMHI
+- [ ] **1. Empatizar:** Investigación cualitativa y mapeo de dolores del usuario final.
+- [ ] **2. Definir:** Delimitación de requerimientos técnicos e hipótesis de diseño.
+- [ ] **3. Idear:** Lluvia de ideas de hardware/software y matrices de selección.
+- [ ] **4. Prototipar:** Ensamble físico preliminar y desarrollo de interfaces básicas.
+- [ ] **5. Testear:** Pruebas controladas de laboratorio y validación con usuarios.
 
 ---
 
 ## 📁 Estructura del Repositorio
 
+Siguiendo las pautas de inicio de la práctica para un repositorio ordenado y limpio:
+
 ```text
-willay-project/
-├── frontend/       # Interfaz de usuario (Web/App)
-├── backend/        # APIs y modelos predictivos (FastAPI, PyTorch)
-├── iot/            # Código para microcontroladores en campo (Sensores ESP32)
-├── docs/           # Manuales, arquitectura y documentación del sistema
-└── README.md       # Presentación general del proyecto
+📁 Proyecto_Prueba/
+│
+├── 📁 Documentación/     # Informes técnicos, actas de reunión y entregables iniciales
+└── 📄 README.md          # Presentación general del equipo y proyecto (Este archivo)
+```
+
+---
+<p align="center">
+  <sub>Estructura inicial desarrollada por el <b>Equipo 01</b> • UPCH © 2026</sub>
+</p>
