@@ -61,7 +61,7 @@ Nuestro proyecto está directamente alineado con los Objetivos de Desarrollo Sos
 | <img src="./imagenes/jurgen.jpg" width="70" alt="Jurgen Carpio"> | **Carpio Huaranga, Jurgen Adriano** | 🎯 Líder del equipo | Gestión del proyecto, coordinación general, toma de decisiones y seguimiento de objetivos. |
 | 👤 | **Mendez Pecho, Xiomara Valentina** | 🔬 Responsable de investigación | Análisis de datos climáticos, validación científica, investigación bibliográfica y métricas de impacto. |
 | 👤 | **Cordova Asencio, Xiomi** | 🎨 Diseñador/a | Diseño UX/UI, creación de prototipos interactivos, experiencia de usuario y accesibilidad de la plataforma. |
-| 👤 | **Taipe Condori, Wilder Jherson** | 📝 Encargado/a de documentación | Redacción técnica, elaboración de manuales, actas de reuniones y estructuración del repositorio. |
+|<img width="70" alt="jherson taipe" src="https://github.com/user-attachments/assets/da0dfdb2-5ad4-4ee5-8010-e06394e86eec" />| **Taipe Condori, Wilder Jherson** | 📝 Encargado/a de documentación | Redacción técnica, elaboración de manuales, actas de reuniones y estructuración del repositorio. |
 | 👤 | **Briceño More, Yen Yosue** | 💻 Programador/a - Modelador/a | Desarrollo del código (frontend/backend), implementación de modelos de IA y arquitectura de software. |
 
 ---
