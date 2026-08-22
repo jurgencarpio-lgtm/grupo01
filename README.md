@@ -1,4 +1,4 @@
-# 🌩️ Proyecto WILLAY - Equipo 04
+# 🌩️ Proyecto WILLAY - Equipo 01
 ### Proyectos de Ingeniería 2026-1 | Universidad Peruana Cayetano Heredia
 
 <p align="center">
