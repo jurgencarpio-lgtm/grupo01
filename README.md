@@ -9,11 +9,12 @@
   <i>Universidad Peruana Cayetano Heredia (UPCH) • 2026-2</i></p>
 
   <p align="center">
-    <a><img src="https://shields.io" alt="Estado"></a>
-    <a><img src="https://shields.io" alt="Curso"></a>
-    <a><img src="https://shields.io" alt="ODS"></a>
-    <a><img src="https://shields.io" alt="Tecnología"></a>
+    <img src="https://shields.io" alt="Estado">&nbsp;&nbsp;
+    <img src="https://shields.io" alt="Curso">&nbsp;&nbsp;
+    <img src="https://shields.io" alt="ODS">&nbsp;&nbsp;
+    <img src="https://shields.io" alt="Tecnología">
   </p>
+
 
 
 
