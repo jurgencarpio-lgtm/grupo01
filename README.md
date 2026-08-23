@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img width="850" alt="Logo Universidad Peruana Cayetano Heredia" src="Imagenes/cayetano.png" style="border-radius: 15px;" />
+  <img width="850" alt="Logo Universidad Peruana Cayetano Heredia" src="imagenes/cayetano.png" style="border-radius: 15px;" />
   
   <br><br>
 
