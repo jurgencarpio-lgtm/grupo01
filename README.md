@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img width="850" alt="Logo Universidad Peruana Cayetano Heredia" src="Imagenes/cayetano.png" />
+  <img src="imagenes/logo.png" />
   
   <br><br>
 
@@ -8,11 +8,13 @@
   <p><b>Carreras de Ingeniería Informática e Industrial</b><br>
   <i>Universidad Peruana Cayetano Heredia (UPCH) • 2026-2</i></p>
 
-  <p align="center">
+    <p align="center">
     <a href="#"><img src="https://shields.io" alt="Estado"></a>
     <a href="#"><img src="https://shields.io" alt="Curso"></a>
     <a href="#"><img src="https://shields.io" alt="ODS"></a>
+    <a href="#"><img src="https://shields.io" alt="Tecnología"></a>
   </p>
+
 
 </div>
 
