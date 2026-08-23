@@ -3,6 +3,8 @@
 </h1>
 <img width="1514" height="573" alt="image" src="https://github.com/user-attachments/assets/e3dce5fb-cd23-4aee-8a96-1f958714e830" />
 
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=for-the-badge" alt="Estado">
   <img src="https://img.shields.io/badge/Tecnología-DeepTech-blue?style=for-the-badge" alt="Tecnología">
@@ -80,9 +82,9 @@ Nuestro proyecto está alineado con 3 Objetivos de Desarrollo Sostenible (ODS) p
 ## 📁 Estructura del Repositorio
 
 ```text
-willay-project/
-├── frontend/       # Interfaz de usuario (Web/App)
-├── backend/        # APIs y modelos predictivos (FastAPI, PyTorch)
-├── iot/            # Código para microcontroladores en campo (Sensores ESP32)
-├── docs/           # Manuales, arquitectura y documentación del sistema
+grupo01/
+├── documentación/  # Manuales, actas, arquitectura y documentación del sistema
+├── hardware/       # Código para microcontroladores y sensores en campo (IoT)
+├── imagenes/       # Recursos gráficos, logotipos y fotografías del equipo
+├── software/       # Desarrollo del código fuente (frontend, backend y modelos de IA)
 └── README.md       # Presentación general del proyecto
