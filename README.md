@@ -9,10 +9,10 @@
   <i>Universidad Peruana Cayetano Heredia (UPCH) • 2026-2</i></p>
 
   <p align="center">
-    <img src="https://shields.io" alt="Estado">&nbsp;&nbsp;
-    <img src="https://shields.io" alt="Curso">&nbsp;&nbsp;
-    <img src="https://shields.io" alt="ODS">&nbsp;&nbsp;
-    <img src="https://shields.io" alt="Tecnología">
+    <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow" alt="Estado">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Curso-Procesos%20de%20Innovación-blueviolet" alt="Curso">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/ODS-6%20%7C%2011-0A97D9" alt="ODS">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Tecnología-IoT%20%2B%20IA-2E8B57" alt="Tecnología">
   </p>
 
 
