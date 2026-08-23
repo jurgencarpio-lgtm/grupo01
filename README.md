@@ -42,8 +42,8 @@ Nuestro proyecto está alineado con 3 Objetivos de Desarrollo Sostenible (ODS) p
 | ODS | Enfoque | Contribución del Proyecto |
 |:---:|:---:|---|
 | <img src="imagenes/ODS9.jpg" width="80" style="border-radius:50%"> | **Innovación y Tecnología** | Desarrollo de infraestructura tecnológica (Redes neuronales BiLSTM y análisis satelital) adaptada para zonas rurales y de baja conectividad. |
-| **🌍 ODS 13: Acción por el Clima** | **Cuidado Ambiental** | Creación de una herramienta directa de adaptación y mitigación ante los efectos del cambio climático en la agricultura de los Andes. |
-| **🌱 ODS 15: Vida de Ecosistemas Terrestres** | **Cuidado Ambiental** | Promoción de prácticas agrícolas sostenibles al optimizar recursos y prevenir la degradación de las tierras de cultivo por fenómenos extremos. |
+| <img src="imagenes/ODS13.jpg" width="80" style="border-radius:50%"> | Creación de una herramienta directa de adaptación y mitigación ante los efectos del cambio climático en la agricultura de los Andes. |
+| <img src="imagenes/ODS15.jpg" width="80" style="border-radius:50%"> | **Cuidado Ambiental** | Promoción de prácticas agrícolas sostenibles al optimizar recursos y prevenir la degradación de las tierras de cultivo por fenómenos extremos. |
 
 ---
 
