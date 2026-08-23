@@ -46,17 +46,18 @@ Nuestra propuesta preliminar se alinea de manera directa con los siguientes Obje
 
 ---
 
-## 👥 Equipo Multidisciplinario y Contacto
+## 👥 Nuestro Equipo y Contacto
 
-💡 **Enfoque colaborativo:** *Combinamos nuestras habilidades técnicas y de gestión para estructurar un proyecto con rigor analítico y sensibilidad social.*
+💡 **Enfoque colaborativo:** *Combinamos habilidades técnicas y de gestión para estructurar el proyecto.*
 
-| Nombre | Rol Principal | Responsabilidades Clave | Correo Institucional |
-| :--- | :---: | :--- | :--- |
-| **Carpio Huaranga, Jurgen Adriano** | 👑 Líder | Coordinación general, gestión de tiempos y comunicación externa. | `jurgen.carpio@upch.pe` |
-| **Briceño More, Yen Yosue** | 💻 Programador | Arquitectura lógica, control de versiones y desarrollo de código. | `yen.briceno@upch.pe` |
-| **Cordova Asencio, Xiomi Nicoll** | 🎨 Diseñadora | Experiencia de usuario (UX/UI), identidad visual y prototipado. | `xiomi.cordova@upch.pe` |
-| **Taipe Condori, Wilder Jherson** | 📄 Documentación | Redacción de informes técnicos, control de calidad y bitácoras. | `Wilder.taipe@upch.com` |
-| **Mendez Pecho, Xiomara Valentina** | 🔍 Responsable de Investigación | Vigilancia tecnológica, estado del arte y marco normativo. | `xiomara.mendez@upch.pe` |
+| Foto | Nombre | Rol Principal | Responsabilidades | Correo |
+| :---: | :--- | :---: | :--- | :--- |
+| <img src="imagenes/jurgen.jpeg" width="90" style="border-radius:50%"> | **Carpio Huaranga, Jurgen** | 🎯 Líder | Gestión y toma de decisiones. | `jurgen.carpio@upch.pe` |
+| <img src="imagenes/xiomara.jpeg" width="90" style="border-radius:50%"> | **Mendez Pecho, Xiomara** | 🔬 Investigación | Análisis de datos y métricas. | `xiomara.mendez@upch.pe` |
+| <img src="imagenes/xiomi.jpeg" width="90" style="border-radius:50%"> | **Cordova Asencio, Xiomi** | 🎨 Diseñadora | Prototipos y experiencia de usuario. | `xiomi.cordova@upch.pe` |
+| <img src="imagenes/wilder.jpeg" width="90" style="border-radius:50%"> | **Taipe Condori, Jherson** | 📝 Documentación | Redacción técnica y actas. | `Wilder.taipe@upch.com` |
+| <img src="imagenes/yen.jpeg" width="90" style="border-radius:50%"> | **Briceño More, Yen** | 💻 Programador | Desarrollo y IA. | `yen.briceno@upch.pe` |
+
 
 ---
 
