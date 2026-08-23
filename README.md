@@ -1,5 +1,5 @@
-# 🌩️ Proyecto WILLAY - Equipo 01
-### Proyectos de Ingeniería 2026-1 | Universidad Peruana Cayetano Heredia
+# 🌩️ Proyecto - Equipo 01
+### Procesos de Ingeniería 2026-1 | Universidad Peruana Cayetano Heredia
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=for-the-badge" alt="Estado">
@@ -15,54 +15,45 @@
 ---
 
 ## 📋 Tabla de Contenidos
-- [🎯 Resumen Ejecutivo](#-resumen-ejecutivo)
+- [🎯 Descripción del Equipo y Objetivo](#-descripción-del-equipo-y-objetivo)
 - [🌍 Impacto y ODS](#-impacto-y-ods)
-- [👥 Nuestro Equipo](#-nuestro-equipo)
+- [👥 Equipo Multidisciplinario](#-equipo-multidisciplinario)
 - [🚀 Stack Tecnológico](#-stack-tecnológico)
 - [📁 Estructura del Repositorio](#-estructura-del-repositorio)
-- [⚙️ Guía de Instalación](#️-guía-de-instalación)
-- [🤝 Cómo Contribuir](#-cómo-contribuir)
-- [📬 Contacto](#-contacto)
 
 ---
 
-## 🎯 Resumen Ejecutivo
+## 🎯 Descripción del Equipo y Objetivo
 
-**WILLAY** (del quechua *"Aviso/Alerta"*) es un sistema DeepTech enfocado en la inteligencia climática. Su objetivo principal es predecir eventos extremos como heladas y sequías con alta precisión y anticipación, salvaguardando los cultivos de pequeños agricultores andinos.
+**Sobre Nosotros (Equipo 01):**  
+Somos un equipo multidisciplinario de estudiantes enfocados en la creación de soluciones tecnológicas que generen un impacto real y positivo en la sociedad. Combinamos conocimientos en investigación, diseño, desarrollo de software y gestión para construir herramientas accesibles y eficientes.
 
-### 💡 Pilares de la Solución
-- **Modelos de IA:** Redes neuronales BiLSTM para el análisis temporal del clima.
-- **Imágenes Satelitales:** Combinación de datos de Sentinel-1 y Sentinel-2.
-- **Alertas Hiperlocales:** Notificaciones precisas a nivel de parcela.
-- **Soporte Offline:** Funcionalidad asegurada en zonas con conectividad limitada.
+**Nuestro Objetivo:**  
+Desarrollar e implementar **WILLAY** (del quechua *"Aviso/Alerta"*), un sistema DeepTech de inteligencia climática diseñado para predecir eventos meteorológicos extremos, como heladas y sequías, con alta precisión. Buscamos brindar alertas tempranas hiperlocales para salvaguardar los cultivos y mejorar la resiliencia de los pequeños agricultores andinos frente al cambio climático.
 
 ---
 
 ## 🌍 Impacto y ODS
 
-Nuestro proyecto está directamente alineado con los Objetivos de Desarrollo Sostenible de la ONU:
+Nuestro proyecto está alineado con 3 Objetivos de Desarrollo Sostenible (ODS) principales que abarcan la innovación, la tecnología y el cuidado ambiental:
 
-| ODS PRINCIPAL | Contribución del Proyecto |
-|-----|----------------------|
-| **🌍 ODS 13: Acción Climática** | Herramienta de adaptación al cambio climático con base científica y tecnológica. |
-
-| ODS SECUNDARIOS | Contribución del Proyecto |
-|-----|----------------------|
-| **🌾 ODS 2: Hambre Cero** | Prevención de pérdidas en cultivos fundamentales (papa, quinua, maíz). |
-| **💧 ODS 6: Agua Limpia** | Gestión y optimización eficiente del riego ante posibles casos de estrés hídrico. |
-| **⚙️ ODS 9: Innovación** | Desarrollo de infraestructura tecnológica inclusiva para zonas rurales. |
+| ODS | Enfoque | Contribución del Proyecto |
+|:---:|:---:|---|
+| **⚙️ ODS 9: Industria, Innovación e Infraestructura** | **Innovación y Tecnología** | Desarrollo de infraestructura tecnológica (Redes neuronales BiLSTM y análisis satelital) adaptada para zonas rurales y de baja conectividad. |
+| **🌍 ODS 13: Acción por el Clima** | **Cuidado Ambiental** | Creación de una herramienta directa de adaptación y mitigación ante los efectos del cambio climático en la agricultura de los Andes. |
+| **🌱 ODS 15: Vida de Ecosistemas Terrestres** | **Cuidado Ambiental** | Promoción de prácticas agrícolas sostenibles al optimizar recursos y prevenir la degradación de las tierras de cultivo por fenómenos extremos. |
 
 ---
 
-## 👥 Nuestro Equipo
+## 👥 Equipo Multidisciplinario
 
 | Foto | Nombre | Rol Principal | Responsabilidades Clave |
 |:---:|--------|--------------|-------------------------|
 | <img src="./imagenes/jurgen.jpg" width="70" alt="Jurgen Carpio"> | **Carpio Huaranga, Jurgen Adriano** | 🎯 Líder del equipo | Gestión del proyecto, coordinación general, toma de decisiones y seguimiento de objetivos. |
 | <img src="./imagenes/xio.jpg" width="70" alt="Xiomara Mendez"> | **Mendez Pecho, Xiomara Valentina** | 🔬 Responsable de investigación | Análisis de datos climáticos, validación científica, investigación bibliográfica y métricas de impacto. |
-| 👤 | **Cordova Asencio, Xiomi** | 🎨 Diseñador/a | Diseño UX/UI, creación de prototipos interactivos, experiencia de usuario y accesibilidad de la plataforma. |
-|<img width="70" alt="jherson taipe" src="https://github.com/user-attachments/assets/da0dfdb2-5ad4-4ee5-8010-e06394e86eec" />| **Taipe Condori, Wilder Jherson** | 📝 Encargado/a de documentación | Redacción técnica, elaboración de manuales, actas de reuniones y estructuración del repositorio. |
-| 👤 | **Briceño More, Yen Yosue** | 💻 Programador/a - Modelador/a | Desarrollo del código (frontend/backend), implementación de modelos de IA y arquitectura de software. |
+| <img src="./imagenes/xiomi.jpg" width="70" alt="Xiomi Cordova"> | **Cordova Asencio, Xiomi** | 🎨 Diseñador/a | Diseño UX/UI, creación de prototipos interactivos, experiencia de usuario y accesibilidad de la plataforma. |
+| <img src="./imagenes/jherson.jpg" width="70" alt="Jherson Taipe"> | **Taipe Condori, Wilder Jherson** | 📝 Encargado/a de documentación | Redacción técnica, elaboración de manuales, actas de reuniones y estructuración del repositorio. |
+| <img src="./imagenes/yen.jpg" width="70" alt="Yen Briceño"> | **Briceño More, Yen Yosue** | 💻 Programador/a - Modelador/a | Desarrollo del código (frontend/backend), implementación de modelos de IA y arquitectura de software. |
 
 ---
 
