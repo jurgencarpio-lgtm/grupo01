@@ -1,20 +1,21 @@
-<h1 align="center" style="color: #0000FF; font-weight: bold;">
-  Equipo 01 - Proyectos para Ingeniería 1
-</h1>
-<img width="1514" height="573" alt="image" src="https://github.com/user-attachments/assets/e3dce5fb-cd23-4aee-8a96-1f958714e830" />
+<div align="center">
+  
+  <img width="850" alt="Logo Universidad Peruana Cayetano Heredia" src="Imagenes/cayetano.png" style="border-radius: 15px;" />
+  
+  <br><br>
 
----
+  <h1>🚀 Equipo 01 — Procesos de Innovacion Proyecto 1</h1>
+  <p><b>Carreras de Ingeniería Informática, Ambiental e Industrial</b><br>
+  <i>Universidad Peruana Cayetano Heredia (UPCH) • 2026-2</i></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=for-the-badge" alt="Estado">
-  <img src="https://img.shields.io/badge/Tecnología-DeepTech-blue?style=for-the-badge" alt="Tecnología">
-  <img src="https://img.shields.io/badge/Enfoque-AgTech%20%7C%20Clima-green?style=for-the-badge" alt="Enfoque">
-  <img src="https://img.shields.io/badge/Licencia-MIT-orange?style=for-the-badge" alt="Licencia">
-</p>
+  <p align="center">
+    <a href="#"><img src="https://img.shields.io/badge/Estado-En_Desarrollo-2ea44f?style=for-the-badge&logo=github" alt="Estado"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Metodología-Design_Thinking-007ACC?style=for-the-badge&logo=visual-studio-code" alt="Metodología"></a>
+    <a href="#"><img src="https://img.shields.io/badge/ODS-3_%7C_6_%7C_9-4C9F38?style=for-the-badge&logo=unicef" alt="ODS"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Licencia-MIT-orange?style=for-the-badge" alt="Licencia"></a>
+  </p>
 
-<p align="center">
-  <strong>Plataforma de Inteligencia Climática para la Resiliencia Agrícola en los Andes</strong>
-</p>
+</div>
 
 ---
 
